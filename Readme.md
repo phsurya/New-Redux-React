@@ -3,10 +3,9 @@ This example was explained in Udemy.
 Special thanks to Stephen Grider.
 
 
-> git clone https://github.com/phsurya/New-Redux-React.git
-> cd New-Redux-React
-
-> npm start
+git clone https://github.com/phsurya/New-Redux-React.git
+cd New-Redux-React
+npm start
 
 Enjoy!!
 
